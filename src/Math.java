@@ -7,9 +7,10 @@ public class Math {
     }
 
 
-    public int sub(int first, int second)   {
+    public int sub(int first, int second, String hej)   {
 
+        String konflikt = "inte bra";
         int third = first - second;
         return third;
-    }
+    } jesper2 ändringar
 }
