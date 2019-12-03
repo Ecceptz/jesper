@@ -7,7 +7,7 @@ public class Math {
     }
 
 
-    public int sub(int first, int second)   {
+    public int sub(int third, int fourth)   {
 
         int third = first - second;
         return third;
