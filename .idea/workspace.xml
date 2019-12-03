@@ -12,6 +12,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FUSProjectUsageTrigger">
     <session id="-38954787">
       <usages-collector id="statistics.lifecycle.project">
@@ -42,6 +43,8 @@
       </usages-collector>
     </session>
   </component>
+=======
+>>>>>>> d6af29c2b63f8a8bb4bbd04ea98744f4c65f6590
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
@@ -82,12 +85,16 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="708" />
     <option name="y" value="431" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+=======
+  <component name="ProjectId" id="1UT4n2jSKd4PqdK3nrAoFXF2pHS" />
+>>>>>>> d6af29c2b63f8a8bb4bbd04ea98744f4c65f6590
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
